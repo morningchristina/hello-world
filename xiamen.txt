@@ -1,0 +1,658 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>B楼盘项目查询结果-房地产门户-搜房网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<link rel="SouFunIcon" href="/favicon.ico" />
+<link href="http://img2.soufun.com/bbsv2/style/head20110418.css?v=201208152106" type="text/css" rel="stylesheet" />
+<link href="http://img2.soufun.com/bbs/v3.6/style/cssListDetailnew.css" type="text/css" rel="stylesheet" id="linkcsshref" />
+<link href="http://img2.soufun.com/bbs/v3.6/style/list_other.css?v=2011041110" type="text/css" rel="stylesheet" />
+<link href="http://img2.soufun.com/bbsv2/style/listnew.css?v=201404251657" type="text/css" rel="stylesheet" id="linkcsshref"/>
+<link href="http://img2.soufun.com/bbsv2/style/forum_list.css?v=2014042516572" type="text/css" rel="stylesheet"/>
+<link href="http://img2.soufun.com/bbs/v3.6/style/newpost.css?v=2011041110" type="text/css" rel="stylesheet" />
+<style type="text/css">
+/* for Chrome 换肤 */
+.box13MenuR{width:400px;float:right;line-height:25px;height:25px;margin-left:-400px;}
+.are{position:relative;}
+</style>
+<script language="javascript" type="text/javascript">
+	var bbs_domain='bbs.xm.soufun.com', bbs_domain_2012='bbs.xm.soufun.com', CurJsBbsHref='http://bbs.xm.soufun.com/', BBS_BASE_URL='http://bbs.xm.soufun.com/';
+	var Sign='', City='', forumId='', forumUrl='', forumName='', BID='', CID='51', BBSSortNewJs='';
+	var UserID=userid='0', Username='', UserLevel='', MobileUserNameShow='', WeiBoUrl='http://t.soufun.com/0/';
+	var WeiboDomain='bbs.soufun.com';
+</script>
+<script src="http://img2.soufun.com/bbsv2/2012/detail_othernew.js?v=20110817" type="text/javascript"></script>
+<script src="http://img2.soufun.com/bbsv2/2012/treelist.js" type="text/javascript"></script>
+<script src="http://img2.soufun.com/bbsv2/2012/list.v3.8_new.js?t=20110628" type="text/javascript"></script>
+<script src="http://img2.soufun.com/bbsv2/2012/list_other.js?v=201109152028" type="text/javascript"></script>
+
+<script src="http://img2.soufun.com/bbsv2/2012/jscookies.js" type="text/javascript"></script>
+<script src="http://img2.soufun.com/bbsv2/2012/js_common.js?v=201109152028" type="text/javascript"></script>
+<script language="javascript" src="http://img2.soufun.com/bbsv2/2012/bingo.js?v=20110412" type="text/javascript"></script>
+<script src="http://img2.soufun.com/bbsv2/2012/PostOper.js" type="text/javascript"></script>
+
+<script src="http://img2.soufun.com/bbsv2/2012/list.js?v=201109152028" type="text/javascript"></script>
+<script src="http://img2.soufunimg.com/bbsv2/2012/??forumlist.js,common_functions.js,forum_list.js,top_nav.js,showadlist.js?v=201404251657" type="text/javascript"></script>
+<script type="text/javascript" language="javascript" src="http://img2.soufun.com/bbsv2/2012/UserCenterAction.js?t=0510"></script>
+<script src="http://img2.soufun.com/bbsv2/2012/weibo.js?day=20110817" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://img2.soufun.com/bbsv2/mcss.css" />
+<link href="http://img2.soufunimg.com/bbsv2/style/listflat_new.css?v=2014042516572" type="text/css" rel="stylesheet" />
+<link type="text/css" rel="stylesheet" href="http://img2.soufunimg.com/bbsv2/shequ.css?v=201208211946" />
+<link href="http://img2.soufunimg.com/bbsv2/style/minnav.css?v=201404251657" type="text/css" rel="stylesheet" />
+</head>
+<!-- forum/common/header.html compiled file created on 2014-05-08 17:09:56 -->
+<body>
+<link href="http://img2.soufun.com/bbs/v3.6/style/search.css?v=201103161" rel="stylesheet" type="text/css" />
+<link href="http://img2.soufun.com/bbs/v3.6/style/css.css?d=1" type="text/css" rel="stylesheet" id="linkcsshref">
+<script type="text/javascript" src="http://img2.soufun.com/bbsv2/2012/forumlist.js"></script>
+<script type="text/javascript" src="http://img2.soufun.com/bbsv2/2012/search_floor.js"></script>
+<script type="text/javascript">BBSSortNewJs = "1";</script>
+<!--迷你导航 start-->
+<div class="mnnav">
+	<dl>
+		<dt>
+			<div class="mndleft">
+								<a id="B01_01" href="http://xm.soufun.com/" target="_blank">搜房首页</a>|<a id="B01_02" href="http://news.xm.soufun.com/" target="_blank">资讯</a>|<a id="B01_03" href="http://newhouse.xm.soufun.com/" target="_blank">新房</a><a id="B01_04" href="http://esf.xm.soufun.com/" target="_blank">二手房</a><a id="B01_05" href="http://zu.xm.soufun.com/" target="_blank">租房</a>|<a id="B01_06" href="http://home.soufun.com/" target="_blank">装修家居</a>|<a id="B01_07" href="http://bbs.xm.soufun.com/" target="_blank">业主论坛</a>|<a id="B01_09" href="http://client.3g.soufun.com/http/wap/index.html" rel="nofollow" target="_blank">手机搜房</a>
+							</div>
+			<ul class="mndright">
+			<form action="http://search.soufun.com/bbs/search.jsp" method="get" target="_blank" name="multi_search2013" id="multi_search2013" onsubmit="multiSearch2013();return false;">
+				<li class="mndr01"><input id="B01_41" name="q" type="text" class="mndrinput" value="搜索其实很简单" onfocus="if(this.value==this.defaultValue)this.value=''" onblur="if(this.value.length<1)this.value=this.defaultValue;" /></li>
+				<li class="mndr02" id="top_nav_search" style="z-index:999;" onmouseover="switchTopNav2013('top_nav_search',true);" onmouseout="switchTopNav2013('top_nav_search',false);"><a href="javascript:;">论坛</a>
+					<ul class="mndrdown" style="display:none;">
+						<li><a rel="nofollow" id="B01_42" href="javascript:;" onclick="setSearchType2013('forum');">论坛</a></li>
+						<li><a rel="nofollow" id="B01_43" href="javascript:;" onclick="setSearchType2013('post');">帖子</a></li>
+						<li><a rel="nofollow" id="B01_44" href="javascript:;" onclick="setSearchType2013('author');">作者</a></li>
+					</ul>
+					<input type="hidden" name="city" value="" />
+					<input type="hidden" name="sl" value="forum" />
+					<input type="hidden" name="key" value="" />
+				</li>
+				<li class="mndr03"><a id="B01_45" href="javascript:;" onclick="multiSearch2013();"></a></li>
+			</form>
+			</ul>
+		</dt>
+		<dd id="loggedin2013" style="display:none;">
+			<div class="rebefortc"><a id="B01_14" href="http://www.soufun.com/xinfangbang/login.html" target="_blank" title="新房帮登录">新房帮登录</a></div>
+			<div class="reainfor" id="msgBoxNew" onmouseover="switchTopNav2013('msgBoxNew',true);" onmouseout="switchTopNav2013('msgBoxNew',false);"><a href="http://space.soufun.com/?c=message&a=received&msgtype=all&isread=0" target="_blank">(0)</a>
+				<ul class="reaidown" style="display:none;" id="B01_38"><li><span style="width:100px;">木有新消息啊~</span></li></ul>
+			</div>
+			<div class="reaname" id="userInfo2013" onmouseover="switchTopNav2013('userInfo2013',true);" onmouseout="switchTopNav2013('userInfo2013',false);"><a href="http://space.soufun.com/" target="_blank"></a>
+				<ul class="reandown" style="display:none;">
+					<li class="reandup">
+						<div class="reandupimg"><a href="http://space.soufun.com/" target="_blank"><img src="http://img2.soufun.com/bbs/usercenter/portrait/common/dfAvatar.jpg" alt="" height="55" width="55" /></a></div>
+						<div class="reanduptxt">积分等级：<span><a href="http://space.soufun.com/help/topic_01.html" target="_blank"></a></span><br/>积分：<span></span><br />财富等级：<span><a href="http://space.soufun.com/help/topic_01.html" target="_blank"></a></span></div>
+					</li>
+					<li class="reanddown"><a id="B01_46" href="http://space.soufun.com/" target="_blank">我的空间</a><a id="B01_47" href="http://space.soufun.com/" target="_blank">论坛动态</a><a id="B01_48" href="http://space.soufun.com/?c=post&a=index" target="_blank">我的帖子</a><a id="B01_49" href="http://space.soufun.com/?c=relation&a=index" target="_blank">关系中心</a><a id="B01_50" href="http://space.soufun.com/?c=user&a=wealth" target="_blank">财富大厅</a><a id="B01_51" href="http://space.soufun.com/?c=setting&a=index" target="_blank">我的设置</a><a id="B01_52" href="http://space.soufun.com/?c=setting&a=index#editPassword" target="_blank">修改密码</a><a id="B01_53" href="javascript:void((function(s,d,e){window.location='http://bbs.xm.soufun.com/logout.php?_m=logout&backurl='+e(d.location.href);})(screen,document,encodeURIComponent));"><font style="color:#049">退出</font></a></li>
+				</ul>
+			</div>
+		</dd>
+		<dd id="unlogin2013">
+			<div class="rebefortc"><a id="B01_14" href="http://www.soufun.com/xinfangbang/login.html" target="_blank" title="新房帮登录">新房帮登录</a></div>
+			<div class="rebefortc"><a rel="nofollow" id="B01_13" href="http://passport.soufun.com/register.aspx?service=bbs&host=bbs.soufun.com&backurl=http%3A%2F%2F" target="_blank">注册</a>|</div>
+			<div class="rebefor" id="top_nav_login" style="z-index:999;"><a onmouseover="switchLoginForm2013(true);" href="javascript:;">登录</a>|
+				<form action="http://bbs.xm.soufun.com/login.php?_m=login&sign=" method="post" style="margin: 0px" onsubmit="javascript:this.backurl.value=this.backurl.value.length>1?this.backurl.value:location.href;return login2013(this);" name="loginformnav" >
+				<ul class="reledown" style="display:none;">
+					<li style="margin-top:10px;"><input name="username" type="text" value="用户名" class="rdinput" onfocus="if(this.value==this.defaultValue)this.value=''" onblur="if(this.value.length<1)this.value=this.defaultValue;" /></li>
+					<li><input type="text" class="rdinput" onfocus="this.style.display='none';this.form.password.style.display='';this.form.password.focus();" value="密码" name="passwordshow"><input type="password" name="password" value="" class="rdinput" style="display:none;" onblur="if(this.value.length<1){this.style.display='none';this.form.passwordshow.style.display='';}"><input type="hidden" name="tab" value="0" /></li>
+					<li><span><input type="submit" class="rdbtns" value="" id="B01_12" /></span><span class="rdtxt"><a target="_blank" href="http://passport.soufun.com/get_password.aspx">忘记密码?</a><input type="hidden" name="backurl" value="" /></span></li>
+				</ul>
+				</form>
+			</div>
+			<div class="rebsina"><a rel="nofollow" id="B01_11" href="javascript:void((function(s,d,e){window.location='http://passport.soufun.com/sinacallback.aspx?service=bbs&host=bbs.soufun.com&backurl='+e(d.location.href);})(screen,document,encodeURIComponent));"></a></div>
+			<div class="rebqq"><a rel="nofollow" id="B01_10" href="javascript:void((function(s,d,e){window.location='http://passport.soufun.com/logintoqq.aspx?service=bbs&host=bbs.soufun.com&backurl='+e(d.location.href);})(screen,document,encodeURIComponent));"></a></div>
+		</dd>
+	</dl>
+</div>
+<!--迷你导航 end-->
+<script>
+try{
+	if('undefined' != typeof GetPassportCookie) UserID = userid = GetPassportCookie('userid');
+	if(UserID > 0) {
+		if('undefined' != typeof AJAXCALL) {
+			AJAXCALL(CurJsBbsHref+'ajax/getLoginUserInfo.php', function(doc){
+				try {
+					var json = eval('(' + doc + ')');
+					if(json.succ != 1) {
+						UserID=userid=0;
+						rerurn;
+					}
+					var userInfo2013 = document.getElementById('userInfo2013');
+					UserID=userid=json.data.userId;
+					if(!userInfo2013) return;
+					document.getElementById('loggedin2013').style.display = 'block';
+					document.getElementById('unlogin2013').style.display = 'none';
+					var un=json.data.username, rlen=0, len=un.length;
+					for(var i=0; i<len; i++) {
+						if(rlen > 11) break;
+						if(un.charCodeAt(i) < 27 || un.charCodeAt(i) > 126) rlen += 2;
+						else rlen += 1;
+					}
+					var a = userInfo2013.getElementsByTagName('a')[0];
+					a.innerHTML = un.substring(0,i);
+					a.title = un;
+					userInfo2013.getElementsByTagName('li')[0].innerHTML = '<div class="reandupimg"><a href="http://space.soufun.com/" target="_blank"><img src="'+json.data.image+'" alt="'+json.data.username+'" height="55" width="55" /></a></div><div class="reanduptxt">积分等级：<span><a href="http://space.soufun.com/help/topic_01.html" target="_blank">'+json.data.point_level+'</a></span><br/>积分：<span>'+json.data.point+'</span><br />财富等级：<span><a href="http://space.soufun.com/help/topic_01.html" target="_blank">'+json.data.coin_level+'</a></span></div>';
+				} catch(e){}
+			});
+		}
+	} else {
+		if(document.attachEvent) {
+			document.attachEvent('onclick', closeLoginForm2013);
+		} else if(document.addEventListener){
+			document.addEventListener('click', closeLoginForm2013);
+		}
+	}
+}catch(e){}
+if('undefined' == typeof lazyList){
+	setSearchType2013('forum', true);
+	getAtInfo2013();
+} else {
+	lazyList.push({'f':'setSearchType2013','a':['forum',true]},{'f':'getAtInfo2013','a':[]});
+}
+</script>
+<div class="seperatenav"></div>
+<!--登录框 start-->
+<div id="tcdlk" class="popup" style="display:none">
+	<dl class="putitle">
+		<dt>请输入登录信息</dt>
+		<dd><a href="#" onclick="document.getElementById('tcdlk').style.display='none';return false;">关闭</a></dd>
+	</dl>
+	<form id="loginform" action="http://bbs.xm.soufun.com/login.php?_m=login&sign=&backurl=" method="post" style="margin: 0px" onsubmit="javascript:return login2013(this);" name="loginform" >
+	<div class="pucom1">
+		<dl>
+			<dt>用户名</dt>
+			<dd><input name="username" type="text" onfocus="if(this.value==this.defaultValue)this.value=''" onblur="if(this.value.length<1)this.value=this.defaultValue;" value="手机号/邮箱/用户名" class="puinput1" ></dd>
+		</dl>
+		<dl>
+			<dt><em>密</em>码</dt>
+			<dd><input name="password" type="password" value="" class="puinput1" /><input type="hidden" name="tab" value="0" /></dd>
+		</dl>
+		<dl>
+			<dd>
+				<div class="pubtns"><em></em><span><a href="#" onclick="document.getElementById('topnav_loginsubmit').click();return false;">登录</a><input type="submit" style="display:none;" value="" id="topnav_loginsubmit" /></span></div>
+				<div><a target="_blank" href="http://passport.soufun.com/get_password.aspx" class="publue">忘记密码？</a></div>
+			</dd>
+		</dl>
+		<p>没有搜房通行证？<a href="http://passport.soufun.com/register.aspx?service=bbs&host=bbs.soufun.com&backurl=" target="_blank" class="publue">马上注册一个</a></p>
+	</div>
+	</form>
+</div>
+<!--登录框 end-->
+<!-- top_nav.html compiled file created on 2014-05-08 17:09:24 -->
+<div class="header">
+	<!-- UVCode Start -->
+<script type="text/javascript">var _dctc=_dctc||{};_dctc._account=['UA-24140496-1','UA-24829808-1','UA-24831223-1','UA-24829808-47','UA-24831223-47'];_dctc.isNorth='N';_dctc.bid = '203047';(function(){var script=document.createElement('script');script.type='text/javascript';script.async=true;script.src = 'http://js.soufunimg.com/count/load.min.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(script,s);})();</script>
+<!-- UVCode End -->
+<!-- uv_code.html compiled file created on 2014-05-08 17:09:24 -->
+	<!--20091020搜房网统一版头-->
+	</div>
+<!-- forum/common/public_top.html compiled file created on 2014-05-08 17:09:56 -->
+    <div class="searchbox">
+        <!--面包屑 begin-->
+        <div class="box19" style="margin: 10px 5px 0;">
+            <div class="box19L crumbs_d">
+                <a href="http://www.soufun.com/">搜房网</a>&nbsp;&gt;&nbsp;<a href="http://bbs.xm.soufun.com">厦门业主论坛</a>&nbsp;&gt;&nbsp;B楼盘项目列表            </div>
+            <div class="clear"></div>
+        </div>
+        <!--面包屑 end-->
+        <!--搜索信息 end-->
+        <div class="box46Menu top5" style="background:#fff;border:none">
+            <div class="box46MenuL">搜索结果：在&nbsp;&nbsp;<a href="http://bbs.xm.soufun.com">搜房厦门业主论坛</a>&nbsp;&nbsp;共有&nbsp;<span>31</span> 个</div>
+            <div class="box46MenuR">
+                <!--搜索 begin-->
+                <div class="leftSearch2 top5" style="line-height: 0;">
+                    <form action="/forumlist.php?_m=searchForumList&cityId=51"
+			name="formsearch" method="post" target="_blank" onsubmit="javascript:if(key.value =='输入关键字'){key.value='';}">
+			<div style="float: left; position: relative; font-size: 14px; color: #666; font-weight: bold;
+			margin-right: 6px; line-height: 22px; line-height: 26px; *line-height: 28px;">搜论坛</div>
+			<div class="s4" style="position: relative; z-index: 10;">
+			<input class="width114" style="background: #fff; height: 20px; line-height: 20px;
+			padding: 0 3px; border: 1px solid #85a4c1; color: #888; width: 128px!important;
+			position: relative; top: 1px;" id="key" name="key" value="输入关键字" onkeyup="javascript:GetForumList(this.value,51);"
+			onfocus="if (this.value=='输入关键字'){this.value=''}" onblur="if (this.value=='') {this.value='输入关键字'}"
+			type="text" align="absmiddle">
+			<ul class="searchTips" id="ForumSearchList" style="display: none;width:130px">
+			</ul>
+			</div>
+			<div class="s5">
+			<input type="submit" style="background: transparent url(http://img2.soufun.com/bbs/v3.6//search/images/Search.gif) no-repeat;
+			border: none; width: 70px; height: 22px; line-height: 22px;" value=""></div>
+			<div class="clear"></div>
+
+			<input type="hidden" name="city" value="">
+			</form>
+                </div>
+                <!--搜索 end-->
+            </div>
+            <div class="clear"></div>
+        </div>
+        <!--搜索信息 end-->
+
+        <!--文章主体 begin-->
+        <div class="articleAre2">
+            <!--右 begin-->
+            <div class="articleAreRight2">
+                <!--信息模块 begin-->
+                <div class="box39">
+                    <div class="box39Menu">
+                        <div class="s1">楼盘名首字母索引：</div>
+                        <div class="s2"></div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="box39list p10">
+                                       		                    		<a href="/bbs_proj_list_A.htm">A</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_B.htm">B</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_C.htm">C</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_D.htm">D</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_E.htm">E</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_F.htm">F</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_G.htm">G</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_H.htm">H</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_I.htm">I</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_J.htm">J</a>&nbsp;&nbsp
+                    	                                       		                    		<a href="/bbs_proj_list_K.htm">K</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_L.htm">L</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_M.htm">M</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_N.htm">N</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_O.htm">O</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_P.htm">P</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_Q.htm">Q</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_R.htm">R</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_S.htm">S</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_T.htm">T</a>&nbsp;&nbsp
+                    	                                       		                    		<a href="/bbs_proj_list_U.htm">U</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_V.htm">V</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_W.htm">W</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_X.htm">X</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_Y.htm">Y</a>&nbsp;&nbsp
+                    	                    		<a href="/bbs_proj_list_Z.htm">Z</a>&nbsp;&nbsp
+                    	                                        <a href="/forumlist.php?_m=getForumInfoByAreaId">全部</a>
+                    </div>
+                </div>
+                <!--信息模块 end-->
+                <!--信息模块 begin-->
+                <div class="box39 top10">
+                    <div class="box39Menu">
+                        <div class="s1">楼盘分区索引：</div>
+                        <div class="s2"></div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="box39list2 p10">
+                        <ul>
+                            <li><a href="/forumlist.php?_m=getForumInfoByAreaId&district=翔安">翔安</a></li><li><a href="/forumlist.php?_m=getForumInfoByAreaId&district=同安">同安</a></li><li><a href="/forumlist.php?_m=getForumInfoByAreaId&district=思明">思明</a></li><li><a href="/forumlist.php?_m=getForumInfoByAreaId&district=其他">其他</a></li><li><a href="/forumlist.php?_m=getForumInfoByAreaId&district=集美">集美</a></li><li><a href="/forumlist.php?_m=getForumInfoByAreaId&district=湖里">湖里</a></li><li><a href="/forumlist.php?_m=getForumInfoByAreaId&district=海沧">海沧</a></li>                            <li><a href="/forumlist.php?_m=getForumInfoByAreaId">全部</a>&gt;&gt;</li>
+                        </ul>
+                        <div class="clear">
+                        </div>
+                    </div>
+                </div>
+                <style>
+                /*问答小搜索2011.4.19 input*/
+.asksearch_input{height:22px;margin:8px 10px 0 10px;}
+.asksearch_input .inp2{float:left;width:2px;height:22px;background:url(http://img2.soufun.com/bbs/v3.5/images/searchbj.gif) no-repeat right 0px;position:absolute;top:0px;right:-1px;}
+.asksearch_input .inp1{float:left;height:22px;position:relative;}
+.asksearch_input .inp1 input{float:left;height:22px;line-height:22px;width:46px;padding-left:7px;overflow:hidden;background:url(http://img2.soufun.com/bbs/v3.5/images/searchbj.gif) repeat-x 0px 0px;font-size:12px;color:#888;border:0px;}
+.asksearch_input span .button1{float:left;width:50px;height:22px;line-height:22px;border:0px;cursor:pointer;background:url(http://img2.soufun.com/bbs/v3.5/images/searchbj2.gif) no-repeat -72px 0;margin-left:5px;}
+.asksearch_input span .button2{float:left;width:50px;height:22px;line-height:22px;border:0px;cursor:pointer;background:url(http://img2.soufun.com/bbs/v3.5/images/searchbj2.gif) no-repeat -72px -24px;margin-left:4px;}
+/*问答列表2011.4.19 */
+.akslist ul{padding:5px 10px;width:166px;}
+.akslist li{margin-top:3px;line-height:0}
+.akslist .s1{float:left;line-height:22px}
+.akslist .s1 a:link,.akslist .s1 a:visited{color:#333}
+.akslist .s1 a:hover{color:#f00}
+.akslist .s1 span{font:12px "宋体"}
+.akslist .s2{float:right;color:#f00;line-height:22px}
+.ask3{float:right;line-height: 22px;}
+                </style>
+                <script>
+                    var askPostUrl = "http://www.soufun.com/ask/Ask_StepTwo.aspx ";
+                    var askSearchUrl = "http://www.soufun.com/ask/search.aspx";
+                    function ask_input(t, i) {
+                        if (t.value == "" && i) {
+                            t.value = "";
+                            return;
+                        }
+                        if (t.value == "" && !i) {
+                            t.value = "";
+                            return;
+                        }
+                    }
+                    function Ask_Search() {
+						document.getElementById('form_ask').target="_blank";
+                        $("form_ask").action = askSearchUrl;
+                        $("form_ask").submit();
+                    }
+                    function Ask_Post() {
+						document.getElementById('form_ask').target="_blank";
+                        $("form_ask").action = askPostUrl;
+                        $("form_ask").submit();
+                    }
+
+</script>
+                <!--信息模块 begin-->
+                <div class="box39 top10">
+                    <div class="box39Menu">
+                        <div class="s1"><a href="" target="_blank">搜房问答</a></div>
+                		<div class="s2"><span class="more"><a href="" target="_blank">更多</a></span></div>
+                        <div class="clear">
+                        </div>
+
+                    </div>
+                    <div class="akslist">
+                         <!--input搜索begin-->
+                        <div class="asksearch_input">
+                        <form method="post" id="form_ask">
+                    <div class="inp1"><input type="text" name="asktitle" value="" onfocus="javascript:ask_input(this,true)" onblur="javascript:ask_input(this,false)" /><div class="inp2"></div></div>
+                    <span><input type="button"  class="button1" value="" onclick="javascript:Ask_Search()"/></span>
+                    <span><input type="button"  class="button2" value="" onclick="javascript:Ask_Post()"/></span>
+                    </form>
+
+                        </div>
+                        <div class="clear"></div>
+                        <!--input搜索end-->
+                        <ul>
+															<li><div class="s1"><span>·</span><a href="http://www.soufun.com/ask/ask_7180592.html" target="_blank" title="厦门哪里有办银行流水的？">厦门哪里有办银行</a></div>
+									<div class="ask3"><a href="http://www.soufun.com/ask/ask_7180592.html" target="_blank"><font color="#FF0000">3</font><font color="#888">回复</font></a></div>
+									<div class="clear"></div>
+								</li>
+															<li><div class="s1"><span>·</span><a href="http://www.soufun.com/ask/ask_6799848.html" target="_blank" title="最近了解了一下厦门岛内的购房政策，我外地户口，但考虑到以后落厦门户口让小孩读书的问题，有什么建议吗？">最近了解了一下厦</a></div>
+									<div class="ask3"><a href="http://www.soufun.com/ask/ask_6799848.html" target="_blank"><font color="#FF0000">3</font><font color="#888">回复</font></a></div>
+									<div class="clear"></div>
+								</li>
+															<li><div class="s1"><span>·</span><a href="http://www.soufun.com/ask/ask_6497342.html" target="_blank" title="将军湖里面的别墅还有吗？">将军湖里面的别墅</a></div>
+									<div class="ask3"><a href="http://www.soufun.com/ask/ask_6497342.html" target="_blank"><font color="#FF0000">7</font><font color="#888">回复</font></a></div>
+									<div class="clear"></div>
+								</li>
+															<li><div class="s1"><span>·</span><a href="http://www.soufun.com/ask/ask_6497280.html" target="_blank" title="将军湖里面的别墅怎么样？">将军湖里面的别墅</a></div>
+									<div class="ask3"><a href="http://www.soufun.com/ask/ask_6497280.html" target="_blank"><font color="#FF0000">4</font><font color="#888">回复</font></a></div>
+									<div class="clear"></div>
+								</li>
+															<li><div class="s1"><span>·</span><a href="http://www.soufun.com/ask/ask_6497246.html" target="_blank" title="将军湖里面的房子怎么样？">将军湖里面的房子</a></div>
+									<div class="ask3"><a href="http://www.soufun.com/ask/ask_6497246.html" target="_blank"><font color="#FF0000">3</font><font color="#888">回复</font></a></div>
+									<div class="clear"></div>
+								</li>
+															<li><div class="s1"><span>·</span><a href="http://www.soufun.com/ask/ask_6326818.html" target="_blank" title="厦门户口，家庭有有3套房，有1次商业贷款记录，卖掉2套，再买1套是什么政策">厦门户口，家庭有</a></div>
+									<div class="ask3"><a href="http://www.soufun.com/ask/ask_6326818.html" target="_blank"><font color="#FF0000">8</font><font color="#888">回复</font></a></div>
+									<div class="clear"></div>
+								</li>
+								                    </ul>
+                    </div>
+
+                </div>
+                <!--信息模块 end-->
+                <!--信息模块 end-->
+            </div>
+            <!--右 end-->
+            <!--左 begin-->
+            <div class="articleAreLeft2">
+                <!--add_0526 begin-->
+                <!--字母排序_begin-->
+
+<style type="text/css">
+.box_obl dd{margin:0;padding:0 0 20px}
+.box_obl ul.z_zmList {zoom:1;overflow:Hidden;margin:0 0 0 30px;padding:0}
+.box_obl ul.z_zmList li{float:left;width:165px}
+</style>
+                <dl class="box_obl">
+                    						<!-- 数据显示位置-->
+							                        <dt class="bg_s1"></dt>
+	                        <dd class="bg_s1">
+	                        	                            <ul class="z_zmList">
+	                            											<li><a target="_blank" href='http://barongloft.soufun.com/bbs/' />八融LOFT业主论坛</a></li>
+																					<li><a target="_blank" href='http://banshanyujing0592.soufun.com/bbs/' />半山御景业主论坛</a></li>
+																					<li><a target="_blank" href='http://bbs.xm.soufun.com/board/2212149266/' />巴厘香墅（台湾山庄二期）业主论坛</a></li>
+																					<li><a target="_blank" href='http://balixiangquan.soufun.com/bbs/' />巴厘香泉业主论坛</a></li>
+																			</ul>
+									                            <ul class="z_zmList">
+	                            											<li><a target="_blank" href='http://bbs.xm.soufun.com/board/2212112400/' />巴厘风情业主论坛</a></li>
+																					<li><a target="_blank" href='http://baiyuanshuangxi.soufun.com/bbs/' />百源双玺业主论坛</a></li>
+																					<li><a target="_blank" href='http://bbs.xm.soufun.com/board/2212835300/' />百捷中央公园业主论坛</a></li>
+																					<li><a target="_blank" href='http://bailinggongguan0592.soufun.com/bbs/' />白领公馆业主论坛</a></li>
+																			</ul>
+									                            <ul class="z_zmList">
+	                            											<li><a target="_blank" href='http://bbs.xm.soufun.com/board/villa/' />别墅论坛业主论坛</a></li>
+																					<li><a target="_blank" href='http://bianpatio.soufun.com/3/bbs/' />彼岸Patio业主论坛</a></li>
+																					<li><a target="_blank" href='http://bbs.xm.soufun.com/board/2212106028/' />碧水芳庭业主论坛</a></li>
+																					<li><a target="_blank" href='http://shilijintanbgy0592.soufun.com/bbs/' />碧桂园十里金滩业主论坛</a></li>
+																			</ul>
+									                            <ul class="z_zmList">
+	                            											<li><a target="_blank" href='http://jinshatanbgy0592.soufun.com/bbs/' />碧桂园金沙滩业主论坛</a></li>
+																					<li><a target="_blank" href='http://jinhaiwanbgy.soufun.com/bbs/' />碧桂园金海湾业主论坛</a></li>
+																					<li><a target="_blank" href='http://zuanshichengbgy.soufun.com/bbs/' />碧桂园钻石城业主论坛</a></li>
+																					<li><a target="_blank" href='http://bihailantian0592.soufun.com/bbs/' />碧海蓝天业主论坛</a></li>
+																			</ul>
+									                            <ul class="z_zmList">
+	                            											<li><a target="_blank" href='http://bihujiayuan0592.soufun.com/bbs/' />碧湖嘉园业主论坛</a></li>
+																					<li><a target="_blank" href='http://binnaneju.soufun.com/bbs/' />滨南e居业主论坛</a></li>
+																					<li><a target="_blank" href='http://jinhaihuajing.soufun.com/bbs/' />滨海商住中心业主论坛</a></li>
+																					<li><a target="_blank" href='http://binhaisenlin.soufun.com/bbs/' />滨海森林(永同昌花园三期)业主论坛</a></li>
+																			</ul>
+									                            <ul class="z_zmList">
+	                            											<li><a target="_blank" href='http://binhaiyangguang0592.soufun.com/bbs/' />滨海阳光业主论坛</a></li>
+																					<li><a target="_blank" href='http://haishangwuyuehuablzs.soufun.com/bbs/' />保利招商·海上五月花业主论坛</a></li>
+																					<li><a target="_blank" href='http://yuhuguandibl.soufun.com/bbs/' />宝龙御湖官邸业主论坛</a></li>
+																					<li><a target="_blank" href='http://bbs.xm.soufun.com/board/2212315102/' />宝珊花园业主论坛</a></li>
+																			</ul>
+									                            <ul class="z_zmList">
+	                            											<li><a target="_blank" href='http://baotuodasha.soufun.com/bbs/' />宝拓大厦业主论坛</a></li>
+																					<li><a target="_blank" href='http://haijingyuanbc.soufun.com/bbs/' />宝成海景苑业主论坛</a></li>
+																					<li><a target="_blank" href='http://baohuahuayuan0592.soufun.com/bbs/' />宝华花园业主论坛</a></li>
+																					<li><a target="_blank" href='http://ladefangsibj.soufun.com/bbs/' />宝嘉拉德芳斯业主论坛</a></li>
+																			</ul>
+									                            <ul class="z_zmList">
+	                            											<li><a target="_blank" href='http://baojiayufeng.soufun.com/bbs/' />宝嘉誉峰业主论坛</a></li>
+																					<li><a target="_blank" href='http://boshishanzhuang2.soufun.com/bbs/' />博士山庄业主论坛</a></li>
+																					<li><a target="_blank" href='http://bohaihaoyuan.soufun.com/bbs/' />博海豪园业主论坛</a></li>
+																			</ul>
+									                        </dd>
+	                                                        </dl>
+
+
+                <!--add_0526 end-->
+            </div>
+            <!--左 end-->
+            <div class="clear">
+            </div>
+        </div>
+        <!--文章主体 end-->
+    </div>
+    <!--页脚 begin-->
+
+    <script type="text/javascript" src="http://img2.soufunimg.com/bbsv2/2012/forum_footer.js?v=201404251657"></script>
+<link rel="stylesheet" type="text/css" href="http://img2.soufunimg.com/bbsv2/style/forum_footer.css?v=201404251657" />
+<script language="javascript">
+	formed = true;
+	window.onerror = killErrors;
+	var div_msgbox_buttonaction = "";
+	var div_msgbox_timer = null;
+	var div_msgbox_height = 200;
+	if (location.href.indexOf("/post/frm_") > -1 && location.href.indexOf("frm_show_new.aspx") == -1) {
+		div_msgbox_height = 200;
+	} else {
+		div_msgbox_height = 300;
+	}
+</script>
+<iframe name="postiframe" id="postiframe" height="0" width="0" style="display:none"></iframe>
+<div class="hBox_1" id="divmsgbox" style="display:none">
+	<h4 id="div_msgbox_title">提示</h4>
+	<div class="hBox_1_content">
+		<p class="failTips" id="div_msgbox_msg"></p>
+		<p><input class="input_w2" type="button" value="确定" onclick="javascript:hiddendivmsgbox();" id="div_msgbox_button"/></p>
+	</div>
+</div>
+<!--页脚 begin-->
+<div class="footer" style="width:1004px;margin: 0 auto 0 auto;">
+<!--20091020搜房网统一版尾-->
+<div id="B06_14" style="width:960px;height:180px;background:#fff;font-size:12px;font-family:'宋体';clear:both;margin:0 auto;" class="DivCss20091020WZiColor333">
+	<div style="line-height:20px;text-align:center;margin-top:5px;">
+		<a rel="nofollow" href="http://www.soufun.com/aboutus/index.asp" target="_blank">关于搜房</a> <span style="font-family: Verdana;">‖</span>
+		<a rel="nofollow" href="http://www.soufun.com/hezuo_file/house/index.html" target="_blank">网站合作</a> <span style="font-family: Verdana;">‖</span>
+		<a rel="nofollow" href="http://www.soufun.com/aboutus/contactus.html" target="_blank">联系我们</a> <span style="font-family: Verdana;">‖</span>
+		<a rel="nofollow" href="http://www.soufun.com/aboutus/marketing/index.html" target="_blank">网络营销</a> <span style="font-family: Verdana;">‖</span>
+		<a rel="nofollow" href="http://www.soufun.com/zhaopin" target="_blank">招聘信息</a> <span style="font-family: Verdana;">‖</span>
+		<a href="javascript:;" onmouseout="hidden_moreBoxto(1020)" onmouseover="moreBoxto(1020)">搜房家族</a> <span style="font-family: Verdana;">‖</span>
+		<a href="http://xm.soufun.com/sitemap.html" target="_blank">网站地图</a> <span style="font-family: Verdana;">‖</span>
+		<a rel="nofollow" href="http://www.soufun.com/service/feedback/LeaveMess.aspx" target="_blank">意见反馈</a> <span style="font-family: Verdana;">‖</span>
+		<a rel="nofollow" href="http://wap.soufun.com/xc/mobile.html" target="_blank">手机搜房</a>
+	</div>
+	<!--弹出城市 begin-->
+	<div style="position:relative;width:1px;height:1px;z-index:10;">
+		<div onMouseOut="hidden_moreBoxto(1020)" onMouseOver="show_moreBoxto(1020);" id="moreBox1020" style="display:none;position:absolute;top:-15px;right:10px!important;left:-80px;width:480px;height:153px;background:#f0f0f0;border:1px solid #999;padding:10px 10px 0 10px;line-height:21px;font-size:12px;">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" class="DivCss20091020WZiColor333">
+			  <tr>
+				<td width="3%"><strong style="color:#f00;">B</strong></td>
+				<td width="18%"><a href="http://bj.soufun.com/" target="_blank">北京房地产</a></td>
+				<td width="3%"><strong style="color:#f00;">D</strong></td>
+				<td width="18%"><a href="http://dg.soufun.com/" target="_blank">东莞房地产</a></td>
+				<td width="3%">&nbsp;</td>
+				<td width="17%"><a href="http://hn.soufun.com/" target="_blank">海南房地产</a></td>
+				<td width="3%">&nbsp;</td>
+				<td width="19%"><a href="http://nn.soufun.com/" target="_blank">南宁房地产</a></td>
+				<td width="3%">&nbsp;</td>
+				<td width="13%"><a href="http://sy.soufun.com/" target="_blank">沈阳房地产</a></td>
+			  </tr>
+			  <tr>
+				<td><strong style="color:#f00;">C</strong></td>
+				<td><a href="http://cd.soufun.com/" target="_blank">成都房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://dl.soufun.com/" target="_blank">大连房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://hf.soufun.com" target="_blank">合肥房地产</a></td>
+				<td><strong style="color:#f00;">Q</strong></td>
+				<td><a href="http://qd.soufun.com/" target="_blank">青岛房地产</a></td>
+				<td><strong style="color:#f00;">T</strong></td>
+				<td><a href="http://tj.soufun.com/" target="_blank">天津房地产</a></td>
+			  </tr>
+			  <tr>
+				<td>&nbsp;</td>
+				<td><a href="http://cq.soufun.com/" target="_blank">重庆房地产</a></td>
+				<td><strong style="color:#f00;">F</strong></td>
+				<td><a href="http://fz.soufun.com/" target="_blank">福州房地产</a></td>
+				<td><strong style="color:#f00;">J</strong></td>
+				<td><a href="http://jn.soufun.com/" target="_blank">济南房地产</a></td>
+				<td><strong style="color:#f00;">S</strong></td>
+				<td><a href="http://sh.soufun.com/" target="_blank">上海房地产</a></td>
+				<td><strong style="color:#f00;">W</strong></td>
+				<td><a href="http://wuhan.soufun.com/" target="_blank">武汉房地产</a></td>
+			  </tr>
+			  <tr>
+				<td>&nbsp;</td>
+				<td><a href="http://cs.soufun.com/" target="_blank">长沙房地产</a></td>
+				<td><strong style="color:#f00;">G</strong></td>
+				<td><a href="http://gz.soufun.com/" target="_blank">广州房地产</a></td>
+				<td><strong style="color:#f00;">N</strong></td>
+				<td><a href="http://nanjing.soufun.com/" target="_blank">南京房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://sz.soufun.com/" target="_blank">深圳房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://wuxi.soufun.com/" target="_blank">无锡房地产</a></td>
+			  </tr>
+			  <tr>
+				<td>&nbsp;</td>
+				<td><a href="http://changchun.soufun.com/" target="_blank">长春房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://gy.soufun.com" target="_blank">贵阳房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://nc.soufun.com/" target="_blank">南昌房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://suzhou.soufun.com/" target="_blank">苏州房地产</a></td>
+				<td><strong style="color:#f00;">X</strong></td>
+				<td><a href="http://xian.soufun.com/" target="_blank">西安房地产</a></td>
+			  </tr>
+			  <tr>
+				<td>&nbsp;</td>
+				<td><a href="http://cz.soufun.com/" target="_blank">常州房地产</a></td>
+				<td><strong style="color:#f00;">H</strong></td>
+				<td><a href="http://hz.soufun.com/" target="_blank">杭州房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://nb.soufun.com/" target="_blank">宁波房地产</a></td>
+				<td>&nbsp;</td>
+				<td><a href="http://sjz.soufun.com/" target="_blank">石家庄房地产</a></td>
+				<td><strong style="color:#f00;">Z</strong></td>
+				<td><a href="http://zz.soufun.com/" target="_blank">郑州房地产</a></td>
+			  </tr>
+			</table>
+			<div style="text-align:right;" class="DivCss20091020WZiColorf00"><a href="http://www.soufun.com/SoufunFamily.htm" target="_blank">进入搜房家族&gt;&gt;</a></div>
+		</div>
+	</div>
+	<!--弹出城市 end-->
+	<div style="font-family:Verdana;line-height:20px;text-align:center;">Copyright &copy; 2014 Soufun Holdings Limited, All Rights Reserved</div>
+	<div style="line-height:23px;text-align:center;position:relative;">搜房公司 版权所有<span style="letter-spacing: 2px;font-family: Verdana;"><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_A.htm">A</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_B.htm">B</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_C.htm">C</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_D.htm">D</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_E.htm">E</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_F.htm">F</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_G.htm">G</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_H.htm">H</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_I.htm">I</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_J.htm">J</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_K.htm">K</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_L.htm">L</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_M.htm">M</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_N.htm">N</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_O.htm">O</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_P.htm">P</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_Q.htm">Q</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_R.htm">R</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_S.htm">S</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_T.htm">T</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_U.htm">U</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_V.htm">V</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_W.htm">W</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_X.htm">X</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_Y.htm">Y</a><a target="_blank" href="http://bbs.xm.soufun.com/bbs_proj_list_Z.htm">Z</a></span><a rel="nofollow"  target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=0102000110800002"><img style="border:0pt none;position:absolute;right:249px;top:-18px;" src="http://img2.soufun.com/bbsv2/images/beian_min.gif"/></a></div>
+	<div style="line-height:20px;text-align:center;">举报电话：<span style="font-family:Verdana;">010-56318764</span> 举报邮箱：<a rel="nofollow" href="mailto:jubao@soufun.com" style="font-family:Verdana;">jubao@soufun.com</a></div>
+</div>
+<script language="javascript" type="text/javascript" src="http://imgn.jiatx.com/jiatx/mall/outer/jtxpopup.js"></script>
+</div>
+<!-- 页脚 end -->
+<div class="popup" id="favoriteInfo_msg" style="display:none;border:none;width:335px;">
+<iframe id="iframe_selecthouse_login" name="iframe_selecthouse_login" src="about:blank" onload="javascript:if(SetCwinHeight)SetCwinHeight(this)" width="335px" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+</div>
+<div class="dltip" id="newhouse_login" style="display:none;">
+	<h3 class="dltiptit"><a href="javascript:void(0);" onclick="document.getElementById('newhouse_login').style.display='none';">关闭</a></h3>
+	<dl class="dltipcom">
+		<dt></dt>
+		<dd id="ActiveNoUser" style="display:none;"><span id="NoUserLoginShowTs"></span><br/><span><a href="http://passport.soufun.com/register.aspx?service=bbs&host=bbs.xm.soufun.com&backurl=/forum.php?sign=">注册会员</a></span></dd>
+		<dd id="ActiveHasUser" style="display:none;"><span id="HasUserLoginShowTs"></span><br/><span><a href="/addressbook.php?sign=" target="_blank">申请认证&gt;&gt;</a></span></dd>
+	</dl>
+</div>
+<script type="text/javascript" src="http://img2.soufun.com/usertrack/usertrack.js"></script>
+<!-- uv_tj.html compiled file created on 2014-05-08 17:09:24 -->
+<script type="text/javascript" src="http://img2.soufunimg.com/bbsv2/2012/show_error.js?v=201404251657"></script>
+<link rel="stylesheet" type="text/css" href="http://img2.soufunimg.com/bbsv2/style/error_new.css?v=201404251657" /><div class="dltip" id="warnNewInfobox" style="display:none;">
+	<h3 class="dltiptit"><a href="javascript:void(0);" onclick="document.getElementById('warnNewInfobox').style.display='none';">关闭</a></h3>
+	<dl class="dltipcom">
+		<dt></dt>
+		<dd><span id="warnNewInfoboxMsg"></span><br/><span id="warnNewInfoboxLink"></span>&nbsp;</dd>
+	</dl>
+</div>
+<div class="qxsbdl" id="warnNewNologin" style="display:none;">
+	<dl class="qxsbdltit">
+		<dt id="warnNewNologinMsg"></dt>
+		<dd><a href="javascript:void(0);" onclick="document.getElementById('warnNewNologin').style.display='none';"></a></dd>
+	</dl>
+	<form name="loginformtip" onsubmit="javascript:return login2013(this);" style="margin:0px;" method="post" action="http://bbs.xm.soufun.com/login.php?_m=login&sign=&backurl=">
+	<ul class="qxsbdlcom">
+		<li class="qcup">
+			<dl>
+				<dt>用户名：<input type="hidden" value="0" name="tab" /></dt>
+				<dd><input name="username" type="text" onfocus="if(this.value==this.defaultValue)this.value=''" onblur="if(this.value.length<1)this.value=this.defaultValue;" value="手机号/邮箱/用户名" class="qcupinput" ></dd>
+			</dl>
+			<dl>
+				<dt><span class="qcupmr14">密</span>码：</dt>
+				<dd><input name="password" type="password" value="" class="qcupinput" /></dd>
+			</dl>
+			<dl>
+				<dd><input type="submit" class="qcup_btns" value="登录" /><span class="qcup_wjmm"><a target="_blank" href="http://passport.soufun.com/get_password.aspx">忘记密码？</a></span></dd>
+			</dl>
+		</li>
+		<li class="qcdown">没有搜房通行证？<a href="http://passport.soufun.com/register.aspx?service=bbs&host=bbs.soufun.com&backurl=" target="_blank">马上注册一个</a></li>
+	</ul>
+	</form>
+</div>
+<!-- error_box.html compiled file created on 2014-05-08 17:09:24 -->
+<!--二维码扫描 begin-->
+<style type="text/css">
+.barcode_float { position:fixed; zoom:1; bottom:17px; right:50%; margin-right:515px; text-align:center; _position:absolute;_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0))); _margin-bottom:17px; }
+.barcode_float a.barcode_float_a { display:block; color:#32659a; text-decoration:none; padding-top:5px; width:107px; height:148px; background:#fff; border:1px solid #d1e2fc;  }
+.barcode_float a:hover.barcode_float_a { display:block; background:#d2e4ff;  border:1px solid #d2e4ff;  }
+.barcode_float p { height:20px; line-height:20px; }
+.code_closd { position:absolute; right:2px; top:2px; }
+</style>
+<div class="barcode_float" id="twoDbarcode">
+	<a class="barcode_float_a" href="http://client.3g.soufun.com/http/wap/index.html" target="_blank">
+	<p>搜房手机客户端</p>
+	<img src="http://img2.soufunimg.com/bbsv2/images/2Dbarcode.png?v=201404251657">
+	<p>点击或扫描下载</p>
+	<a title="点击关闭" href="javascript:void(0);" onclick="javascript:document.getElementById('twoDbarcode').style.display='none';return false;"><img class="code_closd" src="http://img2.soufunimg.com/bbsv2/images/code_close.gif?v=201404251657" width="8" height="7" border="0" /></a>
+	</a>
+</div>
+<!--二维码扫描 end-->
+<!-- forum/common/footer.html compiled file created on 2014-05-08 17:09:56 -->
+    <!--页脚 end-->
+
+    <script type="text/javascript" src="http://clickn.soufun.com/stats/clickm2011.js"></script>
+    
+
+    <script type="text/javascript">        Clickstat.eventAdd(window, 'load', function(e) { Clickstat.batchEvent('bbslist_', 'hrb'); });</script>
+
+
+</body>
+</html>
+<!-- forum/getForumInfoByAreaId.html compiled file created on 2014-05-08 17:09:56 -->

@@ -2,8 +2,8 @@
 
 import sys
 
-fread = open('result1.txt','r')
-fwrite = open ('result1.json','w')
+fread = open('11.txt','r')
+fwrite = open ('11.json','w')
 
 for lines in fread:
     fwrite.write(lines)

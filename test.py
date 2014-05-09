@@ -1,23 +1,21 @@
 #!/usr/bin/env python
-#encoding:utf-8
-import re
+
 import sys
-fr = open ('/Users/zxwxfczxx/Desktop/view-source.html','r')
+import re
 
-fi = file('1.txt','w')
+f1 = open('/Users/zxwxfczxx/Desktop/soufun_proje_list_all.html','r')
+f2 = file('/Users/zxwxfczxx/Desktop/1.json','w')
 
-lines = fr.readlines()
+lines= f1.readlines()
+
 for line in lines:
-    line = line.decode('utf-8')
-    reg ='href="(.+?)" target=.+?>(.+?)</a>'
+    reg = "href=\"([\s\S]*?)\">([\s\S]*?)</a></li>"
     imreg = re.compile(reg)
     imglist = re.findall(imreg,line)
 
+
     for items in imglist:
         for item in items:
-            result = str(item.encode('utf-8'))
-            fi.write(result)
-            fi.write('\t')
-        fi.write('\n')
-
-
+            f2.write(item)
+            f2.write('\t\t\t\t\t')
+        f2.write('\n')
